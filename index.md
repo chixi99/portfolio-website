@@ -2,10 +2,10 @@
 
 Collaborative software engineer
 
-## My projects
+## Chi's projects
 
 * Collaborative Software Project in Computational Physicis
 
-## My skills
+## Chi's skills
 
 * Git and GitHub
